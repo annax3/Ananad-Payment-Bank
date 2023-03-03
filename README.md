@@ -14,13 +14,9 @@ This is a Solo project.
 
 # Tech Stack
 - Java
-- Hibernate
-- Spring Framework
-- Spring Boot
-- Spring Data JPA
+- JDBC
 - MySQL
 - Maven
-- Swagger UI
 
 
 # Services
