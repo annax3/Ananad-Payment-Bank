@@ -1,4 +1,4 @@
-# REST API for Wallet Payment Application (PAYMENT GURU) .
+# REST API for Payment Application (Anand Payment Bank) .
 
 
 
